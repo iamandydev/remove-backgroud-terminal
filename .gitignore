@@ -1,6 +1,2 @@
-*.jpg
-*.jpeg
-*.png
-*.web
-*.webp
-
+./exports
+./inputs
